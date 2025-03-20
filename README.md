@@ -44,20 +44,6 @@
 
 ---
 
-## 💼 **Projects**
-🌟 **UI Design Showcase** → [Live Preview](https://yourusername.github.io/ui-designs) | [Repo](https://github.com/yourusername/ui-designs)  
-🌟 **Full-Stack Portfolio** → [Live Demo](https://yourusername.github.io/portfolio) | [Repo](https://github.com/yourusername/portfolio)  
-🌟 **E-Commerce Dashboard (React + Tailwind CSS)** → [Repo](https://github.com/yourusername/ecommerce-dashboard)  
-
----
-
-## 📚 **Blog & Articles**
-🔹 [CSS Tricks for Better UI](https://yourblog.com/css-tricks)  
-🔹 [Optimizing Web Performance](https://yourblog.com/web-performance)  
-🔹 [Building Accessible Web Apps](https://yourblog.com/accessible-apps)  
-
----
-
 ## 📊 **GitHub Stats & Activity**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
