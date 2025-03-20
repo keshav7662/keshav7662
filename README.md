@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
+🚀 Full-Stack Developer | 🎨 UI Designer | 🖥️ MERN Stack Enthusiast  
 
-<!--
-**keshav7662/keshav7662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me  
+- 🔹 Passionate about UI/UX and Frontend Engineering  
+- 🔹 Developing Full-Stack applications with **MERN**  
+- 🔹 Sharing **modern UI components** using HTML, CSS, and animations  
+- 🔹 Exploring Web Performance & Accessibility  
 
-Here are some ideas to get you started:
+## 🔥 My Projects  
+🌟 [UI Design Showcase](https://yourusername.github.io/ui-designs)  
+🌟 [Full-Stack Portfolio](https://github.com/yourusername/fullstack-portfolio)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Connect with Me  
+[🔗 Portfolio](https://yourwebsite.com) | [🐦 Twitter](https://twitter.com/yourhandle) | [💼 LinkedIn](https://linkedin.com/in/yourname)  
