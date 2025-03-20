@@ -13,3 +13,4 @@
 
 ## 🌍 Connect with Me  
 [🔗 Portfolio](https://yourwebsite.com) | [🐦 Twitter](https://twitter.com/yourhandle) | [💼 LinkedIn](https://linkedin.com/in/yourname)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
