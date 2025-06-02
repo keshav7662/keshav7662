@@ -46,11 +46,11 @@
 
 ## 📊 **GitHub Stats & Activity**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keshav7662&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=keshav7662&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=keshav7662&theme=react-dark" />
 </p>
 
 ---
