@@ -39,11 +39,14 @@ Hi! I'm **Keshav Kumar**, a passionate **MERN Stack Developer** dedicated to cra
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635bff?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-F0F0F0?style=for-the-badge&logo=cloudinary&logoColor=blue)
 
 ### ⚙️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -58,7 +61,7 @@ Hi! I'm **Keshav Kumar**, a passionate **MERN Stack Developer** dedicated to cra
 ## 🌟 Featured Projects
 
 ### 🔹 FlavorNest - A Modern Recipe Manager Web App
-> **Stack**: React, Contex API, Tailwind CSS, React-Hook-Form, ShadCN UI
+> **Stack**: React, Contex API, Tailwind CSS, React-Hook-Form, ShadCN UI  
 🍳 A delightful and modern recipe manager to create, explore, and save favorite recipes.
 
 ### 🔹 Quizzie - Quiz Builder App  
@@ -66,11 +69,11 @@ Hi! I'm **Keshav Kumar**, a passionate **MERN Stack Developer** dedicated to cra
 💡 Quizzie is an interactive quiz builder app that allows users to create and share quizzes with their friends. Whether you want to challenge your friends with a Q&A quiz or gather opinions through a poll, Quizzie has got you covered.
 
 ### 🔹Worksphere  
-> **Stack**: HTML, SCSS, JavaScript
-✨ Stay focused. Stay organized. Stay inspired.Crafted for professionals, students, and remote workers who value efficiency.
+> **Stack**: HTML, SCSS, JavaScript  
+✨ Stay focused. Stay organized. Stay inspired.Crafted for professionals, students, and remote workers who value efficiency. 
 
 ### 🔹 Fylla - Let the design speak.  
-> **Stack**: HTML, SCSS, Media Queries
+> **Stack**: HTML, SCSS, Media Queries  
 ⚡ Fylla is a static, non-interactive website built to demonstrate modern UI design and responsive layout skills using HTML, SCSS, and Media Queries.
 > 
 
