@@ -85,9 +85,6 @@ Fylla is a static, non-interactive website built to demonstrate modern UI design
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keshav7662&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=keshav7662&theme=tokyonight" alt="GitHub Streak" />
-  <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav7662&theme=react-dark" alt="Activity Graph" />
 </p>
 
