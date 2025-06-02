@@ -62,19 +62,19 @@ Hi! I'm **Keshav Kumar**, a passionate **MERN Stack Developer** dedicated to cra
 
 ### 🔹 FlavorNest - A Modern Recipe Manager Web App
 > **Stack**: React, Contex API, Tailwind CSS, React-Hook-Form, ShadCN UI  
-🍳 A delightful and modern recipe manager to create, explore, and save favorite recipes.
+A delightful and modern recipe manager to create, explore, and save favorite recipes.
 
 ### 🔹 Quizzie - Quiz Builder App  
 > **Stack**: React.js, Node.js, Express.js, MongoDB, Context API  
-💡 Quizzie is an interactive quiz builder app that allows users to create and share quizzes with their friends. Whether you want to challenge your friends with a Q&A quiz or gather opinions through a poll, Quizzie has got you covered.
+Quizzie is an interactive quiz builder app that allows users to create and share quizzes with their friends. Whether you want to challenge your friends with a Q&A quiz or gather opinions through a poll, Quizzie has got you covered.
 
 ### 🔹Worksphere  
 > **Stack**: HTML, SCSS, JavaScript  
-✨ Stay focused. Stay organized. Stay inspired.Crafted for professionals, students, and remote workers who value efficiency. 
+Stay focused. Stay organized. Stay inspired.Crafted for professionals, students, and remote workers who value efficiency. 
 
 ### 🔹 Fylla - Let the design speak.  
 > **Stack**: HTML, SCSS, Media Queries  
-⚡ Fylla is a static, non-interactive website built to demonstrate modern UI design and responsive layout skills using HTML, SCSS, and Media Queries.
+Fylla is a static, non-interactive website built to demonstrate modern UI design and responsive layout skills using HTML, SCSS, and Media Queries.
 > 
 
 > 📁 Explore more at [github.com/keshav7662](https://github.com/keshav7662?tab=repositories)
