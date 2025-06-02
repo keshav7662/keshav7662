@@ -4,12 +4,6 @@
   💻 MERN Stack Developer | 🎨 UI/UX Builder | 🚀 Always Iterating | 🌱 Focused on Modern Web
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keshav7662&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
 ## 🚀 About Me
 
 Hi! I'm **Keshav Kumar**, a passionate **MERN Stack Developer** dedicated to crafting impactful web applications.
@@ -55,29 +49,6 @@ Hi! I'm **Keshav Kumar**, a passionate **MERN Stack Developer** dedicated to cra
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 FlavorNest - A Modern Recipe Manager Web App
-> **Stack**: React, Contex API, Tailwind CSS, React-Hook-Form, ShadCN UI  
-A delightful and modern recipe manager to create, explore, and save favorite recipes.
-
-### 🔹 Quizzie - Quiz Builder App  
-> **Stack**: React.js, Node.js, Express.js, MongoDB, Context API  
-Quizzie is an interactive quiz builder app that allows users to create and share quizzes with their friends. Whether you want to challenge your friends with a Q&A quiz or gather opinions through a poll, Quizzie has got you covered.
-
-### 🔹Worksphere  
-> **Stack**: HTML, SCSS, JavaScript  
-Stay focused. Stay organized. Stay inspired.Crafted for professionals, students, and remote workers who value efficiency. 
-
-### 🔹 Fylla - Let the design speak.  
-> **Stack**: HTML, SCSS, Media Queries  
-Fylla is a static, non-interactive website built to demonstrate modern UI design and responsive layout skills using HTML, SCSS, and Media Queries.
-> 
-
-> 📁 Explore more at [github.com/keshav7662](https://github.com/keshav7662?tab=repositories)
 
 ---
 
