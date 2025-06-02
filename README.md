@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keshav7662&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/keshav7662?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
@@ -17,7 +16,7 @@ Hi! I'm **Keshav Kumar**, a passionate **MERN Stack Developer** dedicated to cra
 
 - 👨‍💻 Currently building with **MongoDB, Express.js, React, and Node.js**  
 - 🌐 Moving deeper into **Next.js**, **ShadCN UI**, **Acternity**, **Framer Motion**, and **Tailwind CSS**  
-- ⚙️ On the backend, exploring advanced features in **Node.js**, **Express**, and **Spring Boot**  
+- ⚙️ On the backend, working with **REST APIs**, **JWT Auth**, **Prisma**, **Redis**, **Stripe**, **Cloudinary**, **WebSockets**, and **Rate Limiting**
 - 💡 Strong focus on **performance**, **scalability**, and **developer-first design**  
 - 🤖 Love combining AI tools like **v0 by Vercel**, **Lovable**, and **Bold** with modern UI/UX approaches  
 - 🧠 Always learning — always building!
@@ -58,21 +57,22 @@ Hi! I'm **Keshav Kumar**, a passionate **MERN Stack Developer** dedicated to cra
 
 ## 🌟 Featured Projects
 
-### 🔹 FitPro Club Management System
-> **Stack**: React, Spring Boot, MySQL  
-A complete gym automation system that manages memberships, trainers, and subscriber plans. Includes secure login, dashboards, and fee calculations.
+### 🔹 FlavorNest - A Modern Recipe Manager Web App
+> **Stack**: React, Contex API, Tailwind CSS, React-Hook-Form, ShadCN UI
+🍳 A delightful and modern recipe manager to create, explore, and save favorite recipes.
 
-### 🔹 MyFriends - Social Networking Site  
-> **Stack**: JSP, Servlets, MySQL  
-Mini social platform with registration, profile management, and unique registration ID generation.
+### 🔹 Quizzie - Quiz Builder App  
+> **Stack**: React.js, Node.js, Express.js, MongoDB, Context API  
+💡 Quizzie is an interactive quiz builder app that allows users to create and share quizzes with their friends. Whether you want to challenge your friends with a Q&A quiz or gather opinions through a poll, Quizzie has got you covered.
 
-### 🔹 ShopSmart - Full Stack E-Commerce  
-> **Stack**: MERN + Spring Boot Microservices  
-E-commerce app with shopping cart, checkout, discounts, logging (Spring AOP), and multi-user support.
+### 🔹Worksphere  
+> **Stack**: HTML, SCSS, JavaScript
+✨ Stay focused. Stay organized. Stay inspired.Crafted for professionals, students, and remote workers who value efficiency.
 
-### 🔹 BookStore REST API + Admin UI  
-> **Stack**: Spring Boot, Spring Data JPA, Thymeleaf  
-Robust REST API and admin UI for managing book listings with CRUD operations and performance insights via Actuator.
+### 🔹 Fylla - Let the design speak.  
+> **Stack**: HTML, SCSS, Media Queries
+⚡ Fylla is a static, non-interactive website built to demonstrate modern UI design and responsive layout skills using HTML, SCSS, and Media Queries.
+> 
 
 > 📁 Explore more at [github.com/keshav7662](https://github.com/keshav7662?tab=repositories)
 
@@ -93,13 +93,13 @@ Robust REST API and admin UI for managing book listings with CRUD operations and
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://keshavkumar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/keshavkumar7662/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:keshav@example.com">
+  <a href="mailto:keshavverma472@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
