@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Keshav 👋</h1>
 
 <p align="center">
-  💻 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🛠️ Builder of Ideas | 🌱 Lifelong Learner
+  💻 MERN Stack Developer | 🎨 UI/UX Builder | 🚀 Always Iterating | 🌱 Focused on Modern Web
 </p>
 
 <p align="center">
@@ -13,16 +13,16 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Keshav Khulbe**, a passionate full-stack developer who loves turning ideas into scalable and meaningful digital products.
+Hi! I'm **Keshav Kumar**, a passionate **MERN Stack Developer** dedicated to crafting impactful web applications.
 
-- 👨‍💻 Skilled in building responsive & performant web apps using **React**, **Node.js**, **Spring Boot**, and more
-- 🎨 UI/UX enthusiast focused on clean, accessible design with a strong eye for detail
-- 💡 Always exploring new frameworks, developer tools, and productivity hacks
-- 🧠 Strong believer in open-source collaboration and continuous self-improvement
-- 📚 Currently diving deeper into **DevOps**, **Microservices**, and **System Design**
-- 📢 Sharing tech insights through blogs and community events
+- 👨‍💻 Currently building with **MongoDB, Express.js, React, and Node.js**  
+- 🌐 Moving deeper into **Next.js**, **ShadCN UI**, **Acternity**, **Framer Motion**, and **Tailwind CSS**  
+- ⚙️ On the backend, exploring advanced features in **Node.js**, **Express**, and **Spring Boot**  
+- 💡 Strong focus on **performance**, **scalability**, and **developer-first design**  
+- 🤖 Love combining AI tools like **v0 by Vercel**, **Lovable**, and **Bold** with modern UI/UX approaches  
+- 🧠 Always learning — always building!
 
-> ⚡ I love building things that make people's lives easier — let's create something impactful together!
+> 🔭 I see tech as a toolbox — not just what works now, but what shapes what's next.
 
 ---
 
@@ -30,17 +30,20 @@ Hi! I'm **Keshav Khulbe**, a passionate full-stack developer who loves turning i
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-%23ffffff.svg?style=for-the-badge&logo=vercel&logoColor=black)
+![Acternity](https://img.shields.io/badge/Acternity-%23ff4f4f.svg?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23ffffff.svg?style=for-the-badge&logo=framer&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔧 Backend & Databases
+### 🔧 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ Tools & Workflow
@@ -50,6 +53,28 @@ Hi! I'm **Keshav Khulbe**, a passionate full-stack developer who loves turning i
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 FitPro Club Management System
+> **Stack**: React, Spring Boot, MySQL  
+A complete gym automation system that manages memberships, trainers, and subscriber plans. Includes secure login, dashboards, and fee calculations.
+
+### 🔹 MyFriends - Social Networking Site  
+> **Stack**: JSP, Servlets, MySQL  
+Mini social platform with registration, profile management, and unique registration ID generation.
+
+### 🔹 ShopSmart - Full Stack E-Commerce  
+> **Stack**: MERN + Spring Boot Microservices  
+E-commerce app with shopping cart, checkout, discounts, logging (Spring AOP), and multi-user support.
+
+### 🔹 BookStore REST API + Admin UI  
+> **Stack**: Spring Boot, Spring Data JPA, Thymeleaf  
+Robust REST API and admin UI for managing book listings with CRUD operations and performance insights via Actuator.
+
+> 📁 Explore more at [github.com/keshav7662](https://github.com/keshav7662?tab=repositories)
 
 ---
 
@@ -65,23 +90,16 @@ Hi! I'm **Keshav Khulbe**, a passionate full-stack developer who loves turning i
 
 ---
 
-## 🌟 Featured Projects
-
-> *Coming soon...*  
-> Add some of your favorite or pinned repos here to showcase your best work.
-
----
-
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://keshavkumar.vercel.app" target="_blank">
+  <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/keshavkumar7662" target="_blank">
+  <a href="https://www.linkedin.com/in/keshavkumar7662/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:keshavverma472@gmail.com">
+  <a href="mailto:keshav@example.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
